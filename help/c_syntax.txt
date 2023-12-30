@@ -1,0 +1,6 @@
+POINTERS
+making a pointer:
+int a;
+int* b = &a;
+
+*b = 1 //this changes the value behind the pointer

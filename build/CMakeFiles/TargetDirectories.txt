@@ -1,0 +1,3 @@
+/home/benji/Dokumente/Programme/Tphysics/build/CMakeFiles/main.dir
+/home/benji/Dokumente/Programme/Tphysics/build/CMakeFiles/edit_cache.dir
+/home/benji/Dokumente/Programme/Tphysics/build/CMakeFiles/rebuild_cache.dir
